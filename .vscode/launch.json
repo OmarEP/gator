@@ -12,8 +12,7 @@
             "program": "${fileDirname}",
             "env": {},
             "args": [
-                "addfeed",
-                "\"Hacker News RSS\"",
+                "unfollow",
                 "\"https://hnrss.org/newest\"",
             ]
         }
